@@ -98,16 +98,20 @@
 }
 
 .about_content {
-    width: 100%;
-    max-width: 900px;
+    margin-right: 40px;
 }
 
 .about-me-text {
-    max-width: 900px;
-    margin: 20px 0;
+    max-width: 800px;
+    /* optional: limits paragraph width */
+    margin: 20px auto;
+    /* centers and adds vertical space */
     padding: 0 20px;
+    /* adds space from left and right edges */
     text-align: justify;
+    /* optional: justify text */
     line-height: 1.6;
+    /* improves readability */
 }
 
 p {
