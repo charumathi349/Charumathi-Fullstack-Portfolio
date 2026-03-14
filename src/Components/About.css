@@ -1,11 +1,11 @@
 .about_container {
     display: grid;
     grid-template-columns: 30% 66%;
-    /* ✅ Keep same layout */
-    gap: 20%;
-    /* ✅ Balanced spacing */
+    gap: 4%;
     align-items: center;
-    /* Centers vertically */
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
 
