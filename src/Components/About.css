@@ -1,7 +1,7 @@
 .about_container {
     display: grid;
     grid-template-columns: 40% 55%;
-    gap: 10%;
+    gap: 20%;
     align-items: center;
     max-width: 1100px;
     margin: 0 auto;
