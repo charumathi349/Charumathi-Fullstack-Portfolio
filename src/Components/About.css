@@ -1,7 +1,7 @@
 .about_container {
     display: grid;
     grid-template-columns: 40% 55%;
-    gap: 20%;
+    gap: 10%;
     align-items: center;
     max-width: 1100px;
     margin: 0 auto;
@@ -95,10 +95,6 @@
 .about_content p {
     margin: 2rem 0 2.6rem;
     color: var(--color-white);
-}
-
-.about_content {
-    margin-right: 40px;
 }
 
 .about-me-text {
