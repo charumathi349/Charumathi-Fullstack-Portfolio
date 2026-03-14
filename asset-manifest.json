@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Charumathi-Fullstack-Portfolio/static/css/main.68b5999e.css",
+    "main.css": "/Charumathi-Fullstack-Portfolio/static/css/main.dfa3e820.css",
     "main.js": "/Charumathi-Fullstack-Portfolio/static/js/main.bcd92757.js",
     "static/js/787.a2cb61a6.chunk.js": "/Charumathi-Fullstack-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/img.jpg": "/Charumathi-Fullstack-Portfolio/static/media/img.7261bcdab913b51e5963.jpg",
     "static/media/Charumathi.R-Fullstack.pdf": "/Charumathi-Fullstack-Portfolio/static/media/Charumathi.R-Fullstack.180b8a25efafe99c0c7c.pdf",
     "index.html": "/Charumathi-Fullstack-Portfolio/index.html",
-    "main.68b5999e.css.map": "/Charumathi-Fullstack-Portfolio/static/css/main.68b5999e.css.map",
+    "main.dfa3e820.css.map": "/Charumathi-Fullstack-Portfolio/static/css/main.dfa3e820.css.map",
     "main.bcd92757.js.map": "/Charumathi-Fullstack-Portfolio/static/js/main.bcd92757.js.map",
     "787.a2cb61a6.chunk.js.map": "/Charumathi-Fullstack-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68b5999e.css",
+    "static/css/main.dfa3e820.css",
     "static/js/main.bcd92757.js"
   ]
 }
