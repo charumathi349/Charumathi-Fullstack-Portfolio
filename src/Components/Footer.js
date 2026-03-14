@@ -41,14 +41,14 @@ const Footer = () => {
         <
         BsLinkedin / >
         <
-        /a> < /
-        div >
+        /a> <
+        /div>
 
         <
         div className = "footer_copyright" >
         <
-        small > & copy; CHARUMATHI.All rights reserved. < /small> < /
-        div > <
+        small > & copy; CHARUMATHI.All rights reserved. < /small> <
+        /div> <
         /footer>
     );
 };
