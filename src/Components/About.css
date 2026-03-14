@@ -97,6 +97,10 @@
     color: var(--color-white);
 }
 
+.about_content {
+    margin-right: 20px;
+}
+
 .about-me-text {
     max-width: 600px;
     /* optional: limits paragraph width */
