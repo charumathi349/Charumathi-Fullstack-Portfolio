@@ -9,11 +9,6 @@ import Services from './Components/Services';
 /*import Testimonials1 from './Components/Testimonials1';*/
 import Footer from './Components/Footer';
 
-
-
-
-
-
 function App() {
     return ( <
         div className = "App" >
@@ -31,9 +26,6 @@ function App() {
         Contact / >
         <
         Footer / >
-
-
-
         <
         /div>
     );

@@ -13,21 +13,21 @@ const Header = () => {
         <
         div className = 'header_details' >
         <
-        h5 className = 'header_name ' > Hello I 'm</h5> <
-        h1 className = 'header_name' > CHARUMATHI R < /h1> <
-        h5 className = 'text-light' > UI / UX Designer < /h5> <
+        h5 className = 'header_name ' > Hello I 'm</h5>   <
+        h1 className = 'header_name' > CHARUMATHI R < /h1>   <
+        h5 className = 'text-light' > Full Stack Developer < /h5>   <
         Btn / >
         <
-        /div> <
+        /div>   <
         HeaderSocials / > {
             /* <div className='img_header'>
                        <img src={Img} alt="img" className='img_fr'/>
                     </div>*/
         } <
-        div className = 'scroll_down' > Scroll Down < /div> <
-        /div> <
+        div className = 'scroll_down' > Scroll Down < /div>   <
+        /div>   <
         /header>
     )
 }
 
-export default Header
+export default Header;

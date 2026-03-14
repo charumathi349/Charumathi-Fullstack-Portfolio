@@ -20,8 +20,8 @@ const Contact = () => {
     return ( <
         section id = 'contact' >
         <
-        h5 > Get In Touch < /h5> <
-        h2 > Contact Me < /h2> <
+        h5 > Get In Touch < /h5>  <
+        h2 > Contact Me < /h2>  <
         div className = 'container contact_continer' >
         <
         div className = 'contact_options' >
@@ -30,10 +30,10 @@ const Contact = () => {
         <
         MdOutlineEmail className = 'contact_icons' / >
         <
-        h4 > Email < /h4> <
-        h5 > charumathir44 @gmail.com < /h5> <
+        h4 > Email < /h4>  <
+        h5 > charumathir44 @gmail.com < /h5>  <
         a href = 'mailto:charumathir44@gmail.com'
-        target = '_blank' > Send a Message < /a> <
+        target = '_blank' > Send a Message < /a>  <
         /article>
 
         <
@@ -41,12 +41,12 @@ const Contact = () => {
         <
         BsWhatsapp className = 'contact_icons' / >
         <
-        h4 > WhatsAPP < /h4> <
-        h5 > +91 7305121361 < /h5> <
+        h4 > WhatsAPP < /h4>  <
+        h5 > +91 7305121361 < /h5>  <
         a href = 'https://api.whatsapp.com/send?+917305121361'
-        target = '_blank' > Send a Message < /a> <
-        /article> <
-        /div> <
+        target = '_blank' > Send a Message < /a>  <
+        /article>  <
+        /div>  <
         form ref = { form }
         onSubmit = { sendEmail } >
         <
@@ -63,13 +63,13 @@ const Contact = () => {
         textarea name = 'message'
         rows = '7'
         placeholder = 'Your Message'
-        required > < /textarea> <
+        required > < /textarea>  <
         button type = 'submit'
-        className = 'btn btn-primary' > Send Message < /button> <
-        /form> <
-        /div> <
+        className = 'btn btn-primary' > Send Message < /button>  <
+        /form>  <
+        /div>  <
         /section>
     )
 }
 
-export default Contact
+export default Contact;

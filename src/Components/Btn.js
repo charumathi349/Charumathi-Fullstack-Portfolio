@@ -1,12 +1,12 @@
 import React from 'react'
-import CV from '../Assets/Charuuiux.pdf'
+import CV from '../Assets/Charumathi.R-Fullstack.pdf'
 
 const Btn = () => {
     return ( <
         div className = 'btn_main' >
         <
         a href = { CV }
-        download className = 'btn btn-secondary' > Download CV < /a> <
+        download className = 'btn btn-secondary' > Download CV < /a>  <
         a href = '#contact'
         className = 'btn btn-primary' > Let 's Talk</a>
 
