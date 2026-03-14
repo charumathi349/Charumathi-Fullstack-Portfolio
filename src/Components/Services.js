@@ -45,6 +45,12 @@ const Services = () => {
         <
         p > Designing and managing databases using MySQL. < /p> <
         /li> <
+        li >
+        <
+        BiCheck className = "service_list_icon" / >
+        <
+        p > Integrating APIs and ensuring smooth communication between frontend, backend, and database systems. < /p> <
+        /li> <
         /ul> <
         /article> <
         article className = "service" >
@@ -78,6 +84,12 @@ const Services = () => {
         BiCheck className = "service_list_icon" / >
         <
         p > Ensuring websites are mobile - friendly and responsive across devices. < /p> <
+        /li> <
+        li >
+        <
+        BiCheck className = "service_list_icon" / >
+        <
+        p > Optimizing website performance and improving user experience through clean layouts and efficient frontend practices. < /p> <
         /li>
 
         <
@@ -112,7 +124,16 @@ const Services = () => {
         <
         BiCheck className = "service_list_icon" / >
         <
-        p > Implementing CRUD operations and authentication systems. < /p> <
+        p > Handling CRUD operations
+        for effective data management
+        while implementing secure authentication mechanisms
+        for user access control. < /p> <
+        /li> <
+        li >
+        <
+        BiCheck className = "service_list_icon" / >
+        <
+        p > Integrating backend services with the database to ensure reliable data processing and application functionality. < /p> <
         /li>
 
 
